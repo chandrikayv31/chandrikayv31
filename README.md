@@ -9,7 +9,7 @@ At **T-Mobile**, I've been building agent frameworks that investigate and remedi
 
 I care about AI systems that are explainable and auditable, not just accurate — if a model or agent makes a decision, someone downstream needs to be able to trace why. That mindset comes from working in regulated environments (healthcare, telecom) where "it works" isn't a good enough answer on its own.
 
-📫 Reach me at chandrikayv31@gmail.com or connect on LinkedIn
+📫 Reach me at chandrikayv31@gmail.com or connect on linkedin.com/in/iamchandrika
 
 ### 🧠 What I actually work with
 
