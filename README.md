@@ -1,4 +1,6 @@
-## Hi there 👋
+#Hi Chandrika
+
+I am an AI engineer with about 5+ years of experience
 
 <!--
 **chandrikayv31/chandrikayv31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
