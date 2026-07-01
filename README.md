@@ -1,4 +1,4 @@
-### Hey, I'm [Yashu] 👋
+### Hey, I'm Yashu 👋
 
 I build GenAI systems that actually ship — agentic workflows, RAG pipelines, and LLM-powered tools running in production, not just in notebooks. Most of my recent work has been on GCP with Vertex AI and Gemini, standing up AI agents that can call APIs, pull real-time context via MCP, and take action on operational data.
 
@@ -9,7 +9,7 @@ At **T-Mobile**, I've been building agent frameworks that investigate and remedi
 
 I care about AI systems that are explainable and auditable, not just accurate — if a model or agent makes a decision, someone downstream needs to be able to trace why. That mindset comes from working in regulated environments (healthcare, telecom) where "it works" isn't a good enough answer on its own.
 
-📫 Reach me at [chandrikayv31@gmail.com] or connect on [LinkedIn]
+📫 Reach me at chandrikayv31@gmail.com or connect on LinkedIn
 
 ### 🧠 What I actually work with
 
